@@ -73,3 +73,11 @@ npm run test
 
 https://documenter.getpostman.com/view/4683690/TzeXk7Qp
 
+
+##Technology Used
+
+[Nodejs]('https://nodejs.org/en/docs/')
+[Postgres]('https://www.postgresql.org/')
+[Sequelize]('http://sequelize.org/') 
+
+
