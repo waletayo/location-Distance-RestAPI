@@ -1,6 +1,6 @@
 # Location-RestAPI
 
-Location RestAPI Calculate Distance Between two Cordinates
+Location RestAPI Calculate Distance Between two Coordinates
 
 
 ## Installation
@@ -66,4 +66,8 @@ To run the test
 ```
 npm run test
 ```
+
+##Postman Documentation
+
+https://documenter.getpostman.com/view/4683690/TzeXk7Qp
 
