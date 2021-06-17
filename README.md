@@ -56,6 +56,7 @@ npm run db:migrate
 To spin up the server run the following command
 
 ```
+export DATABASE_URL_DEV='postgres://postgres:password@localhost/databasename-dev'
 npm run start
 ```
 
@@ -64,6 +65,7 @@ npm run start
 To run the test 
 
 ```
+export DATABASE_URL_TEST='postgres://postgres:password@localhost/databasename-test'
 npm run test
 ```
 
